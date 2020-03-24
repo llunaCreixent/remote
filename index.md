@@ -96,7 +96,7 @@ While deciding what software and tools to use, we have had to ask questions arou
 
 #### Videoconferencing
 
-Videoconferencing software that is reliable and offers high quality audio and video (such as Zoom), is also often expensive and has a worse track record on privacy issues. Hypha uses Jitsi, which is a free and open source software for most of our videoconferencing needs. We host our own instance to ensure that it has enough bandwidth to support our day-to-day use. Jitsi works in the browser and also allows attendees to dial in, making it convenient for use while travelling.
+Videoconferencing software that is reliable and offers high quality audio and video (such as Zoom), is also often expensive and has a worse track record on privacy issues. Hypha uses Jitsi, which is a free and open source software, for most of our videoconferencing needs. We host our own instance to ensure that it has enough bandwidth to support our day-to-day use. Jitsi works in the browser and also allows attendees to dial in, making it convenient for use while travelling.
 
 | Tools we've tried                             | Cost                                        | Ease of use                                                                                          | Remarks and concerns    |
 | -------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------- | --- |
